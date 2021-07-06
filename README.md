@@ -1,7 +1,7 @@
 
 ## Recommendations with IBM
 
-In this project, the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles have been analyzed.
+This project focuses on the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles.
 
 ### Introduction
 
